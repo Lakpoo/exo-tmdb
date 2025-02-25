@@ -13,8 +13,7 @@ dist-ssr
 *.local
 
 #cle api pour pas la mettre à jour sur le repo
-src/config
-src/config/api.config.js
+.env
 
 # Editor directories and files
 .vscode/*
