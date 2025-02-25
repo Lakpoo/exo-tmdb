@@ -12,6 +12,10 @@ dist
 dist-ssr
 *.local
 
+#cle api pour pas la mettre à jour sur le repo
+src/config
+src/config/api.config.js
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
